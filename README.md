@@ -12,6 +12,7 @@ With the amount of waste produced daily in Saudi Arabia, waste management is a h
 
 This dataset contains 22500 images of organic and recyclable objects.
 
+
 ## purpose:
 
 to build machine learning models that can classify waste as organic or recyclable from images.
